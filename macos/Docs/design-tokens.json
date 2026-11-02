@@ -1,0 +1,52 @@
+{
+  "dark": {
+    "canvas": "#0B1017",
+    "panel": "#121A25",
+    "raised": "#1C2838",
+    "sidebar": "#101722",
+    "field": "#0E1520",
+    "line": "#273342",
+    "ink": "#EEF2F5",
+    "secondary": "#A0AAB7",
+    "positive": "#66D8AD",
+    "negative": "#F17F85",
+    "warning": "#E9B66D",
+    "info": "#85AEF2"
+  },
+  "light": {
+    "canvas": "#F3F5F8",
+    "panel": "#FFFFFF",
+    "raised": "#EAF0F6",
+    "sidebar": "#EDF1F6",
+    "field": "#F6F8FA",
+    "line": "#DCE3EB",
+    "ink": "#19222C",
+    "secondary": "#536274",
+    "positive": "#087851",
+    "negative": "#BA3546",
+    "warning": "#906018",
+    "info": "#315EAB"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "radius": {
+    "panel": 16,
+    "chart": 18,
+    "field": 8,
+    "button": 9
+  },
+  "motionSeconds": {
+    "hover": 0.12,
+    "press": 0.08,
+    "navigation": 0.18
+  },
+  "reduceMotion": true
+}
